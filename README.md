@@ -1,28 +1,61 @@
-# 👋 Hi, I'm Madhankumar!  
+👋 Hi, I'm Madhankumar S!
 
-🚀 **Aspiring Frontend Developer | Linux User | DevOps Enthusiast**  
+🚀 Aspiring Frontend Developer | DevOps Enthusiast | AI Workflow Builder (Vanij Agent Developer)
 
-## 👀 About Me  
-- Passionate about **Frontend Development**, **Linux**, and **Jenkins Implementation**.  
-- Comfortable working with **SQL** and database management.  
-- Focused on building strong **fundamentals** in every technology I learn.  
+👀 About Me
 
-## 🌱 Currently Learning  
-- **Frontend Development** using HTML, CSS, JavaScript, and Bootstrap.  
-- Basics of **Linux administration** and command-line operations.  
-- Exploring **Jenkins CI/CD pipelines** for automation.  
+Passionate about Frontend Development, Linux Systems, and CI/CD Automation.
 
-## 💼 Work Ethic  
-> **"Trust me with work, and I’ll ensure it’s completed correctly and on time!"**  
+Hands-on with Jenkins, Docker, and basic QA Automation (Playwright).
 
-I believe in getting the basics right and delivering work with accuracy and reliability.  
+Experienced in designing AI-powered Agents within the Vanij Playground, connecting real DevOps and automation flows.
 
-## 💞️ Let's Collaborate!  
-I’m open to working on projects related to **web development**, **basic DevOps**, and **database management**.  
+Strong focus on building reliable, modular, and well-documented workflows.
 
-## 📫 Reach Me At  
-- **GitHub**: [madhan-200](https://github.com/madhan-200)  
-- **Email**: [madhankumars8012@gmail.com || rockmadhankumar@gmail.com]   
-- **LinkedIn**: [linkedin.com/in/madhankumar8012 || madhankumar-s-2a7aa3264]
+🌱 Currently Learning
 
-⚡ **Fun Fact:** I enjoy learning by doing—hands-on experience helps me understand things better!  
+Frontend Development with HTML, CSS, JavaScript, and Bootstrap.
+
+Exploring DevOps practices — from Jenkins pipelines to Docker containerization.
+
+Building agentic automation systems (like Planner–Generator–Healer and Medical Expert Systems).
+
+Understanding CI/CD optimization and real-time workflow orchestration.
+
+💼 Work Ethic
+
+“I believe automation, clarity, and consistency are key to professional growth.”
+
+I ensure every project I take is executed with accuracy, tested thoroughly, and aligned with real-world DevOps standards.
+
+💡 Key Highlights
+
+Developed 21+ AI Agents (Vanij Platform) integrating multi-step flows for automation, diagnosis, and optimization.
+
+Designed test case pipelines with Playwright Agents for continuous quality assurance.
+
+Built rule-based expert systems to assist doctors in medical diagnosis (21st Agent).
+
+Experienced in string replacement engines, parser components, and custom workflow automation.
+
+💞️ Let’s Collaborate!
+
+I’m open to projects involving:
+
+🌐 Web Development (Frontend + Basic Backend)
+
+⚙️ DevOps Automation & QA Tools
+
+🧠 AI Workflow & Agent Design
+
+📫 Reach Me At
+
+GitHub → madhan-200
+
+Email → madhankumars8012@gmail.com
+ | rockmadhankumar@gmail.com
+
+LinkedIn → linkedin.com/in/madhankumar8012
+ | linkedin.com/in/madhankumar-s16112003
+
+⚡ Fun Fact: I learn best by building real systems — from Jenkins pipelines to AI reasoning agents!
