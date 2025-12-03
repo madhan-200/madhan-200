@@ -1,12 +1,12 @@
 👋 Hi, I'm Madhankumar S!
 
-🚀 Aspiring Frontend Developer | DevOps Enthusiast | AI Workflow Builder 
+🚀 Aspiring AI Full-Stack Developer | AI Enthusiast | AI Workflow Builder 
 
 👀 About Me
 
-Passionate about Frontend Development, Linux Systems, and CI/CD Automation.
+Passionate about AI Full-Stack Developer,AI and CI/CD Automation.
 
-Hands-on with Jenkins, Docker, and basic QA Automation (Playwright).
+Hands-on with No Code Platform and Agent Flow Building , Jenkins, Docker and basic QA Automation (Playwright).
 
 Experienced in designing AI-powered Agents within the Vanij Playground, connecting real DevOps and automation flows.
 
