@@ -1,6 +1,6 @@
 👋 Hi, I'm Madhankumar S!
 
-🚀 Aspiring Frontend Developer | DevOps Enthusiast | AI Workflow Builder (Vanij Agent Developer)
+🚀 Aspiring Frontend Developer | DevOps Enthusiast | AI Workflow Builder 
 
 👀 About Me
 
