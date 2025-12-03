@@ -57,5 +57,3 @@ Email → madhankumars8012@gmail.com
 
 LinkedIn → linkedin.com/in/madhankumar8012
  | linkedin.com/in/madhankumar-s16112003
-
-⚡ Fun Fact: I learn best by building real systems — from Jenkins pipelines to AI reasoning agents!
